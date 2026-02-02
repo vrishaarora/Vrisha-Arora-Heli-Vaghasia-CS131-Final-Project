@@ -1,8 +1,10 @@
 # Vrisha-Arora-Heli-Vaghasia-CS131-Final-Project
 Team Number: 9
+
 Team Members: Vrisha Arora, Heli Vaghasia
+
 Final Project Idea: Empty seat detector (in libraries or cafes)
-GitHub Repository: https://github.com/vrishaarora/Vrisha-Arora-Heli-Vaghasia-CS131-Final-Project 
+
 Use Case: 
 In libraries, cafes, or other high-traffic locations with limited seating, time is often wasted by users wandering aimlessly looking for an empty seat. Especially during peak hours, staff have no real time insight into what space is available. In some cases open seats can appear occupied due to nearby user’s personal belongings leading to an inefficient use of space. The goal of this project is to create an edge-computing based empty seat detection system that can provide real-time updates of seat availability in public spaces while also protecting the privacy of customers. 
 This project belongs to the smart infrastructure industry as it will use data analytics to monitor performance in real-time, optimize resource utilization, and reduce time wasted. This program can be applied to libraries, universities, cafes, airports, and other public waiting areas. It combines edge computing, system analysis, and computer vision to improve user experience, time consumption, and space utilization. 
